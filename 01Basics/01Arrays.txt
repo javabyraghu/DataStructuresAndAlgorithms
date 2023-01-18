@@ -5,6 +5,9 @@ using namespace std;
 
 int main()
 {
+    //int b[]={10,20,30};
+    //int c[5]={10,11};
+    //b[0]=13;
     int n;
     cout<<"Enter number";
     cin>>n;
